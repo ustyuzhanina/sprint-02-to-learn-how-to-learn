@@ -3,7 +3,7 @@
 Version 1.0.0
 
 ## About project:
-Demo project for a) getting aquainted with HTML5 and CSS3, b) getting prepared for the studing process.
+Demo project for a) getting aquainted with HTML5 and CSS3, b) getting prepared for the studying process.
 
 ## Main functionality: 
 - This is a one-page static website with a number of interesting facts about learning techniques and useful anti-procrastination methods.
